@@ -1,3 +1,3 @@
 # Hello-world-repo
 Reposotory for the BNL internal Git tutorial
-Hello world
+Hi world
